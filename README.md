@@ -15,7 +15,7 @@ The standard Vike icon.
 
 **vike.svg**
 
-<img src="./vike.svg" height="48" />
+<img src="./logo/vike.svg" height="48" />
 
 > [!NOTE]
 > See this repository's files for variants for different contexts (padding, circle crop, etc.).
@@ -29,7 +29,7 @@ Use the following to display Vike's logo at a very small size. (It has reduced h
 
 **vike-favicon.svg**
 
-<img src="./favicon/vike-favicon.svg" height="16" />
+<img src="./logo/favicon/vike-favicon.svg" height="16" />
 
 <br/>
 
@@ -55,7 +55,7 @@ The original 3D Spline model can be found at [GitHub > `vikejs/vike-logo-3d`](ht
 
 **old/vike-oblique.svg**
 
-<img src="./old/vike-oblique.svg" height="70" />
+<img src="./logo/old/vike-oblique.svg" height="70" />
 
 > [!NOTE]
 > See also the [old logo editor](https://land.vike.dev/editor).
